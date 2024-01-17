@@ -47,8 +47,6 @@ R2 of k-mers frequency: k_mer_freq.ipynb
 
 plotting: draw_plot.ipynb
 
-## Citation
-Wang Y, Wang H, Liu L, et al. Synthetic Promoter Design in Escherichia coli based on Generative Adversarial Network[J]. BioRxiv, 2019: 563775.
 
 ## References
 [1]  Wang, Y.; Wang, H.; Wei, L.; Li, S.; Liu, L.; Wang, X. Synthetic promoter design in
