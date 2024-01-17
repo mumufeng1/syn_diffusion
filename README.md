@@ -3,7 +3,7 @@
 
 Computer-aided promoter design is a major development trend in synthetic promoter engineering. Various deep learning models have been used to evaluate or screen synthetic promoters, but there have been few works for de novo promoter design. To explore the potential ability of generative models in promoter design, we established a diffusion-based generative model for promoter design in Escherichia coli. The model was completely driven by sequence data and could study essential characteristics of natural promoters, thus generating synthetic promoters similar to natural promoters in structure and component. We also improved the calculation method of FID indicator, using convolution layer to extract feature matrix of promoter sequence instead. As a result, we got a FID equal to 1.37%, which meant synthetic promoters have a similar distribution to natural ones. Our work provided a fresh approach to de novo promoter design, indicating that a completely data-driven generative model was feasible for promoter design.
 <p align="center">
-  <img width="650" height="300" src="https://github.com/mumufeng1/syn_diffusion/blob/main/fig/fig.png">
+  <img width="800" height="1000" src="https://github.com/mumufeng1/syn_diffusion/blob/main/fig/fig.png">
 </p>
 
 
