@@ -18,7 +18,7 @@ Computer-aided promoter design is a major development trend in synthetic promote
 ## Dataset
 
 Three datasets were utilized in the experimental design for synthesizing promoter sequences. 
-### Wang(promoters_1)
+### Thomason(promoters_1)
 The first dataset, published by Thomason et al.[1], contains a total of 14098 experimentally identified promoters in the E. coli K12 MG1655 genome. Most of the promoters recognized in this dataset are promoters. The promoter sequence is defined as 50 bp upstream of the transcription start site.
 ### Johns(promoters_2)
 The second dataset, published by Johns et al.[2], contained a total of 29,249 regulatory sequences from 184 prokaryotic genomes. The regulatory sequence was defined as 165 base pairs upstream of the gene start codon. The regulatory library was cloned into a p15A vector and transformed into E. coli MG1655. 
