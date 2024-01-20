@@ -19,7 +19,7 @@ Computer-aided promoter design is a major development trend in synthetic promote
 
 Three datasets were utilized in the experimental design for synthesizing promoter sequences. 
 ### Wang(promoters_1)
-The first dataset, published by Wang et al[1], comprised 11,884 regulatory sequences extracted from E. coli genomes. Each promoter sequence was precisely defined as the 50 base pairs upstream of the Transcription Start Site (TSS). 
+The first dataset, published by Thomason et al.[1], contains a total of 14098 experimentally identified promoters in the E. coli K12 MG1655 genome. Most of the promoters recognized in this dataset are promoters. The promoter sequence is defined as 50 bp upstream of the transcription start site.
 ### Johns(promoters_2)
 The second dataset, published by Johns et al.[2], contained a total of 29,249 regulatory sequences from 184 prokaryotic genomes. The regulatory sequence was defined as 165 base pairs upstream of the gene start codon. The regulatory library was cloned into a p15A vector and transformed into E. coli MG1655. 
 ### Lubliner(promoters_3)
@@ -49,9 +49,7 @@ plotting: draw_plot.ipynb
 
 
 ## References
-[1]  Wang, Y.; Wang, H.; Wei, L.; Li, S.; Liu, L.; Wang, X. Synthetic promoter design in
-Escherichia coli based on a deep generative network. Nucleic Acids Research 2020,
-48, 6403¨C6412
+[1]  Thomason, M. K.; Bischler, T.; Eisenbart, S. K.; F ̈orstner, K. U.; Zhang, A.; Herbig, A.; Nieselt, K. S.; Cynthia, M.; Storz, G. Global transcriptional start site mapping using differential RNA sequencing reveals novel antisense RNAs in Escherichia coli. Journal of bacteriology 2015, 197, 18-28.
 
 [2]  Johns N I, Gomes A L C, Yim S S, et al. Metagenomic mining of regulatory elements enables programmable species-selective gene expression[J]. Nature methods, 2018, 15(5): 323-329.
 
